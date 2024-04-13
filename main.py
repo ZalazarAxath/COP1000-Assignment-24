@@ -3,7 +3,7 @@
 # inputText recieve requested numbers
 print("Please input your salary:")
 salary =  float(input())
-print("please input total number of dependents:")
+print("Please input total number of dependents:")
 numDependents = float(input())
 
 # calculate taxes here
